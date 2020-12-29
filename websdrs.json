@@ -1,0 +1,158 @@
+{
+    "Europa": {
+        "NL": [
+            {
+                "name": "Twente",
+                "note": "Multiband",
+                "url": "http://websdr.ewi.utwente.nl:8901/"
+            },
+            {
+                "name": "CAMRAS",
+                "note": "VHF/UHF",
+                "url": "http://websdr.camras.nl:8901/"
+            }
+        ],
+        "BE": [
+            {
+                "name": "Heepen Limburg",
+                "note": "80m, 40m, 20m",
+                "url": "http://heppen.be:8091/"
+            }
+        ],
+        "IRL": [
+            {
+                "name": "Nantwich",
+                "note": "HF",
+                "url": "http://hackgreensdr.org:8901/"
+            },
+            {
+                "name": "Nantwich",
+                "note": "UHF/VHF",
+                "url": "http://hackgreensdr.org:8902/"
+            }
+        ],
+        "UK": [
+            {
+                "name": "Grimsby",
+                "note": "AM LW, MW",
+                "url": "http://grimsbysdr.ddns.net:8073/"
+            },
+            {
+                "name": "M0PEA Chester Cheshire",
+                "note": "Multiband",
+                "url": "https://www.cheshiresdr.co.uk/"
+            },
+            {
+                "name": "VHF Goonhilly",
+                "note": "145 MHz",
+                "url": "https://vhf-goonhilly.batc.org.uk/"
+            }
+        ],
+        "DL": [
+            {
+                "name": "Wismar",
+                "note": "80m, 40m, 20m, 2m, 70cm",
+                "url": "http://dlwis-websdr.ham-radio-op.net:8901/"
+            },
+            {
+                "name": "Wasserkuppe",
+                "note": "FIFI, 11m, 10m, 2m, 23cm",
+                "url": "http://waku.no-ip.org:8901/"
+            },
+            {
+                "name": "Berlin 145 MHz",
+                "note": "UKW",
+                "url": "http://mw4.dynvpn.de:8073/#freq=145600000,mod=nfm,sql=-150"
+            },
+            {
+                "name": "Berlin 433 MHz",
+                "note": "UKW",
+                "url": "http://mw4.dynvpn.de:8075/#freq=434000000,mod=nfm,sql=-150"
+            },
+            {
+                "name": "Dachau",
+                "note": "2m, 70cm",
+                "url": "http://websdr.dk0od.de:8073/#freq=145725000,mod=nfm,sql=-60"
+            },
+            {
+                "name": "Friedrichshafen",
+                "note": "HF",
+                "url": "http://websdr.dk0od.de:8073/#freq=145725000,mod=nfm,sql=-60"
+            }
+        ],
+        "OE": [
+            {
+                "name": "Markt Allhau, South East Austria",
+                "note": "80m, 60m, 20m",
+                "url": "http://www.websdr.at/"
+            }
+        ],
+        "FI": [
+            {
+                "name": "Ulvila",
+                "note": "160m, 80m, 40m, 20m, 10m",
+                "url": "http://websdr.fi:8080/"
+            }
+        ],
+        "HVR": [
+            {
+                "name": "Krizevci, Croatia",
+                "note": "MW, 80m, 60m, 49m, 40m",
+                "url": "http://websdr.fi:8080/"
+            }
+        ],
+        "Russland": [
+            {
+                "name": "Barnaul, Westsibirien",
+                "note": "80m, 40m, 2m",
+                "url": "http://46.241.39.39:8901/"
+            }
+        ]
+    },
+    "Afrika":{
+        "South": [
+            {
+                "name": "TWR South Africa",
+                "note": "Multiband",
+                "url": "http://kiwi.twrafrica.org:8073/"
+            }
+        ]
+    },
+    "North-America":{
+        "West": [
+            {
+                "name": "Half Moon Bay, California USA",
+                "note": "Multiband",
+                "url": "http://69.27.184.62:8901/"
+            }
+        ],
+        "East": [
+            {
+                "name": "Pennsylvania USA",
+                "note": "Multiband",
+                "url": "http://k3fef.com:8901/"
+            },
+            {
+                "name": "Key West, Florida USA",
+                "note": "Multiband",
+                "url": "http://keywest.twrmon.net:8073/"
+            }
+        ]
+    },
+    "South-America":{
+        "Caribbean": [
+            {
+                "name": "TWR Bonaire",
+                "note": "Multiband",
+                "url": "http://bonaire.twrmon.net:8073/"
+            }
+        ],
+        "Brasil": [
+            {
+                "name": "Louveira, SP - Brasil (GG66mv)",
+                "note": "11m, 2m",
+                "url": "http://www.sdrlouvetel.com.br/"
+            }
+        ]
+    }
+}
